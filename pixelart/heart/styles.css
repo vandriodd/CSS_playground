@@ -1,0 +1,79 @@
+.body {
+    background-color: #8C1E68;
+}
+
+.canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 15em;
+    height: 15em;
+}
+
+.canvas .pixelixed-heart {
+    display: block;
+    width: 1em;
+    height: 1em;
+    box-shadow:
+    
+        5em 2.75em black,
+        5.625em 3.75em black,
+        8.125em 3.75em black,
+        8.75em 3.75em black,
+        4.375em 4.375em black,
+        5em 4.375em red,
+        5.625em 4.375em red,
+        6.25em 4.375em black,
+        7.5em 4.375em black,
+        8.125em 4.375em red,
+        8.75em 4.375em red,
+        9.375em 4.375em black,
+        3.75em 5em black,
+        4.375em 5em red,
+        5em 5em red,
+        5.625em 5em red,
+        6.25em 5em red,
+        6.875em 5em black,
+        7.5em 5em red,
+        8.125em 5em red,
+        8.75em 5em red,
+        9.375em 5em red,
+        160px 5em black,
+        3.75em 5.625em black,
+        4.375em 5.625em red,
+        5em 5.625em red,
+        5.625em 5.625em red,
+        6.25em 5.625em red,
+        6.875em 5.625em red,
+        7.5em 5.625em red,
+        8.125em 5.625em red,
+        8.75em 5.625em red,
+        9.375em 5.625em red,
+        160px 5.625em black,
+        4.375em 6.25em black,
+        5em 6.25em red,
+        5.625em 6.25em red,
+        6.25em 6.25em red,
+        6.875em 6.25em red,
+        7.5em 6.25em red,
+        8.125em 6.25em red,
+        8.75em 6.25em red,
+        9.375em 6.25em black,
+        5em 6.875em black,
+        5.625em 6.875em red,
+        6.25em 6.875em red,
+        6.875em 6.875em red,
+        7.5em 6.875em red,
+        8.125em 6.875em red,
+        8.75em 6.875em black,
+        5.625em 7.5em black,
+        6.25em 7.5em red,
+        6.875em 7.5em red,
+        7.5em 7.5em red,
+        8.125em 7.5em black,
+        6.25em 8.125em black,
+        6.875em 8.125em red,
+        7.5em 8.125em black,
+        6.875em 8.75em black;
+  }
