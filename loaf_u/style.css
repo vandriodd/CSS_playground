@@ -1,13 +1,16 @@
+/* Global reset */
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
 
+/* Body styling */
 body {
   background-color: #8c74cc;
 }
 
+/* Container (around of the bread) styling */
 .container {
   height: 350px;
   width: 350px;
@@ -19,6 +22,7 @@ body {
   top: 50%;
 }
 
+/* Bread styling */
 .bread {
   width: 150px;
   height: 40px;
@@ -40,6 +44,7 @@ body {
   top: 8px;
 }
 
+/* Bottom part of the bread styling */
 .bottom {
   background-color: #f5c493;
   width: 130px;
@@ -90,6 +95,7 @@ body {
     75px 10px #f59362, 65px 20px #f59362;
 }
 
+/* Legs styling */
 .leg {
   position: absolute;
   height: 55px;
@@ -112,6 +118,7 @@ body {
   box-shadow: 36px 0 #202020;
 }
 
+/* Heart styling */
 .heart {
   background-color: red;
   display: inline-block;
